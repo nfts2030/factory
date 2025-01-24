@@ -35,7 +35,7 @@ export const Login = () => {
     ) : (
         <div className={styles.loginContainer}>
             <div className={styles.loginCard}>
-                <h1>TulumCoin Access</h1>
+                <h1>TulumCoin Access Version 1 </h1>
                 <div>
                     <p>🔐Enter PASSWORD / CREATE ACCOUNT</p>
                     <input
